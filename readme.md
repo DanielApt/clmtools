@@ -3,7 +3,7 @@ clmtools
 
 This is a collection of python tools for building models for [clmtrackr](http://github.com/auduno/clmtrackr/). This includes:
 * Model builder / trainer
-* Annotations for some images in the [MUCT](www.milbo.org/muct/) dataset
+* Annotations for some images in the [MUCT](http://www.milbo.org/muct/) dataset
 * Annotations for various images found online
 * An annotater for new images
 * Model viewer
